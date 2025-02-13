@@ -9,6 +9,8 @@ In this project, we have implemented and evaluated the performance of 11 pre-tra
 Our findings indicate that the YOLOv8, MobileNetV2, and GoogLeNet models outperform the other models in terms of accuracy and performance.
 
 📜 Check out [paper](https://ieeexplore.ieee.org/document/10877806) 
+🔖 [Technical Report](https://github.com/monirul399/vehicle-classification-and-detection/blob/main/technical-report/CV_Image_classification.pdf)
+🤖 [Hardware Setup](https://github.com/monirul399/vehicle-classification-and-detection/blob/main/technical-report/Hardware%20Setup.pdf)
 
 ## Repository Structure
 
