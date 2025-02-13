@@ -8,6 +8,8 @@ In this project, we have implemented and evaluated the performance of 11 pre-tra
 
 Our findings indicate that the YOLOv8, MobileNetV2, and GoogLeNet models outperform the other models in terms of accuracy and performance.
 
+📜 Check out [paper](https://ieeexplore.ieee.org/document/10877806) 
+
 ## Repository Structure
 
 - `data/`: Contains the datasets used for training and evaluation.
